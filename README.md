@@ -21,5 +21,7 @@ I created an interactive dashboard in Power BI based on a dataset containing det
   - Neamț county ranks second, with over 30% of sales, indicating an active and stable market, possibly supported by a solid customer portfolio.
   - Timiș county, ranking third in terms of sales volume (14.6%), shows a moderate level of commercial activity. This indicates a presence in the market, but it could benefit from implementing consolidation or expansion strategies to stimulate sales growth.
   - Vaslui County records the lowest share of total sales (8.8%) among the four counties analyzed.
++ ***Customer distribution by county and region***:
+   - The interactive map presented displays the number of customers by county and region, highlighting areas with high commercial density. The Moldova region dominates in terms of the number of customers, which shows a high potential for commercial development in this area.
 
 <img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/a14de097-1606-41d6-8958-a542bf0f2479" />
