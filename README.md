@@ -16,5 +16,6 @@ I created an interactive dashboard in Power BI based on a dataset containing det
     + The average invoice value with 19% VAT is 65.67K, indicating a strong average sales value. 
 + ***Sales distribution by product***:
   - The analysis of sales distribution by product shows that Product 5 generates the highest revenues, with a total of 5.2M, thus occupying the first place in the ranking.
+  - 
 
 <img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/a14de097-1606-41d6-8958-a542bf0f2479" />
