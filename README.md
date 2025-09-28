@@ -17,6 +17,8 @@ I created an interactive dashboard in Power BI based on a dataset containing det
 + ***Sales distribution by product***:
   - The analysis of sales distribution by product shows that Product 5 generates the highest revenues, with a total of 5.2M, thus occupying the first place in the ranking.  
 + ***Sales distribution by county***:
-  - Iași clearly dominates the ranking, generating almost half of total sales.
+  - Iași county clearly dominates the ranking, generating almost half of total sales.
+  - Neamț county ranks second, with over 30% of sales, indicating an active and stable market, possibly supported by a solid customer portfolio.
+  - Timiș county, ranking third in terms of sales volume (14.6%), shows a moderate level of commercial activity. This indicates a presence in the market, but it could benefit from implementing consolidation or expansion strategies to stimulate sales growth.
 
 <img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/a14de097-1606-41d6-8958-a542bf0f2479" />
